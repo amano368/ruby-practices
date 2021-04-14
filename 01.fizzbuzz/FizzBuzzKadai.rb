@@ -15,4 +15,3 @@ numberes.each do |number|
     puts number
   end
 end
-
