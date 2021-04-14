@@ -1,4 +1,4 @@
-numberes=[*1..200]
+numberes=[*1..20]
 
 numberes.each do |number|
   n1=number%3.0
