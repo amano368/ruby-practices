@@ -1,6 +1,6 @@
 numbers=[*1..200]
 
-numberes.each do |number|
+numbers.each do |number|
   if number %15==0
     puts "FizzBuzz"
   elsif number %5 == 0
