@@ -1,4 +1,4 @@
-numbers=[*1..200]
+numbers=[*1..20]
 
 numbers.each do |number|
   if number %15==0
